@@ -4,7 +4,7 @@ lazy val scala211Version = "2.11.11-bin-typelevel-4"
 lazy val scala212Version = "2.12.4-bin-typelevel-4"
 lazy val scalametaParadiseVersion = "3.0.0-M10"
 lazy val kindProjectorVersion = "0.9.4"
-lazy val scalametaVersion = "4.0.0"
+lazy val scalametaVersion = "1.8.0" //"4.0.0"
 lazy val shapelessVersion = "2.3.3"
 lazy val catsVersion = "1.4.0"
 
